@@ -9,7 +9,7 @@ import { ContactSection } from './components/ContactSection'
 
 export default function App() {
   // Using your LinkedIn profile photo for profile and new Pexels photos for other images
-  const profileImage = "https://media.licdn.com/dms/image/v2/D5603AQEP_PXFjeMrvA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731057619178?e=1762387200&v=beta&t=fP3-w4KFYjMNbqelQCq8wRicKt_cpqVYUatdnEuopIo" // Defara Putra Nurimaba LinkedIn profile photo
+  const profileImage = "src/public/pp.jpeg"
   const workspaceImage = "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg"
   const officeImage = "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
   
