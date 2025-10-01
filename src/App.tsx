@@ -9,7 +9,7 @@ import { ContactSection } from './components/ContactSection'
 
 export default function App() {
   // Using your LinkedIn profile photo for profile and new Pexels photos for other images
-  const profileImage = "src/public/pp.jpeg"
+  const profileImage = "https://avatars.githubusercontent.com/u/134510705?v=4"
   const workspaceImage = "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg"
   const officeImage = "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
   
