@@ -1,0 +1,139 @@
+CV – Defara Putra Nurimaba
+
+Frontend Engineer
+📍 Bandung, Indonesia
+📧 defara41@gmail.com
+ | 📱 +62 85183066469
+🔗 LinkedIn
+ | GitHub
+
+Summary
+
+Computer Science Student at Bina Nusantara University with strong interest in web development. Enjoys collaborating on challenging projects, honing both technical and teamwork skills. Passionate about full-stack development, modern frameworks, and applying technology to real-world problems
+
+CV Defara Putra
+
+.
+
+Education
+
+Bina Nusantara University
+2022 – Present
+Undergraduate in Computer Science – GPA 3.40 / 4.00
+
+Relevant Coursework:
+
+Object Oriented Programming
+
+Framework Layer Architecture
+
+Software Engineering
+
+Agile Software Development
+
+Pattern Software Design
+
+Data Structure
+
+CV Defara Putra
+
+Experiences
+
+HIMTI Bina Nusantara – Activist (2024 – 2025)
+
+Committee Web Development HISHOT (2024) – Active contributor in web projects.
+
+Committee DND Alumni Gathering (2024) – Designed event structure.
+
+Committee HIVENT (2024) – Built strong teamwork & communication.
+
+Committee TECHNO (2024) – Managed tasks and inter-member communication.
+
+Committee Equipment Coordination Chairman, Company Visit (2025) – Led coordination team.
+
+Committee HIMTI Farewell (2024) – Supported chairperson in program execution.
+
+PT. Permata Agro Persada – IT Intern (Feb 2025 – Feb 2026)
+
+Documented software process flows & requirements.
+
+Designed & built software with team collaboration.
+
+Developed features & conducted testing.
+
+Provided user technical support.
+
+Enhanced full-stack development and database management skills.
+
+Built intuitive dashboards, reporting tools, and CRUD systems for asset & inventory management
+
+CV Defara Putra
+
+.
+
+Projects (CV + GitHub Combined)
+EaseNeura (2024)
+
+Role: Frontend Developer
+
+Description: Flutter app for mental health consultation and self-management support
+
+CV Defara Putra
+
+.
+
+Illegal Maritime Activities Monitoring System (2024)
+
+Role: Frontend Developer
+
+Description: Webapp to track/manage illegal maritime activities across Indonesian EEZs.
+
+Tech: ReactJS, LeafletJS, Global Fishing Watch API, AI integration for real-time tracking
+
+CV Defara Putra
+
+.
+
+IT Inventory (2025)
+
+Role: Full-Stack Developer
+
+Description: Internal system for asset/inventory management.
+
+Features: Authentication/authorization, CRUD, reporting dashboards
+
+CV Defara Putra
+
+.
+
+LeanTreats (2024)
+
+Role: Frontend Developer
+
+Description: Web app for selling healthy cakes, promoting sustainable lifestyles.
+
+Tech: ReactJS, WhatsApp integration for transactions
+
+CV Defara Putra
+
+.
+
+Additional GitHub Repositories
+
+(from dfra9 GitHub
+)
+
+dfra9.github.io – Personal portfolio site (GitHub Pages).
+
+Podomoro – Likely web app project (possibly productivity or property management).
+
+Other experiments/repos – Explore TypeScript, C#, .NET, and TailwindCSS stack.
+
+Skills
+
+Languages: HTML, CSS, JavaScript, C#
+Frameworks: Tailwind CSS, React.js, Next.js, .NET, Bootstrap
+Databases: MySQL, Microsoft SQL Server
+Tools: Git, GitHub, Figma
+
+CV Defara Putra
